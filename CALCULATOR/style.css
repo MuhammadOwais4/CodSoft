@@ -1,0 +1,12 @@
+input {
+    font-family: consola, monospace;
+  }
+  table {
+   background-color: #2196f3;
+  }
+  .c2{
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 10%;
+  }
