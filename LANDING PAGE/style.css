@@ -105,10 +105,13 @@
   display: block;
 }
 #btn{
-  border-radius:35%;
+  /* border-radius:35%; */
   background: linear-gradient(to right, #FBAE60, #F18C7A, #E97195, #DB47AF);
   border-color: white;
   color: white;
+  width: 130px;
+  padding: 10px;
+  border-radius: 41px;
 }
 h3{
   margin-left:15%;
@@ -118,7 +121,7 @@ h3{
   display:table; border:1px solid #003399;
 }
 .div-table-col{
-  display:table-cell; padding: 5px; border: 1px solid #003399;
+  /* display:table-cell; padding: 5px; border: 1px solid #003399; */
   margin-left: 20%;
 }
 .column {
